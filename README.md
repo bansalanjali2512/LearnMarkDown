@@ -1,7 +1,4 @@
-# LearnMarkDown
-Readme.md formatting
-
-#Markdown Syntax and formatting 
+# Learn Readme.md Syntax and formatting
 
 ---------
 #Headings
