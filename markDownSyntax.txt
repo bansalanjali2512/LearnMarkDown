@@ -1,12 +1,34 @@
-#Markdown Syntax and formatting 
+# Learn `Readme.md Syntax` and `formatting`
 
----------
-##Headings
----------
+---------------------
+# Paragraph Alignment
+---------------------
+
+This repo contains syntax and formatting for the markdown files.
+That includes:
+> Headers   
+> Bold, Italic and Underline   
+> Ordered List   
+> Unordered List   
+> Paragraph Formatting   
+> Email address link   
+> Inline URL links   
+> Inline Images   
+
+
+----------
+# Headings
+----------
 
 #Use hashtags for headers
 # Heading <h1>
 ## Heading <h2>
+### Heading <h3>
+#### Heading <h4>
+##### Heading <h5>
+###### Heading <h6>
+
+# Use hashtags for headers
 ### Heading <h3>
 #### Heading <h4>
 ##### Heading <h5>
