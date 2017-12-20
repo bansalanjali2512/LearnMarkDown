@@ -1,4 +1,4 @@
-# Learn Readme.md Syntax and formatting
+# Learn `Readme.md Syntax` and `formatting`
 
 ## Paragraph Alignment
 
@@ -14,8 +14,6 @@ That includes:
 > Inline Images   
 
 # Use hashtags for headers
-# Heading <h1>
-## Heading <h2>
 ### Heading <h3>
 #### Heading <h4>
 ##### Heading <h5>
