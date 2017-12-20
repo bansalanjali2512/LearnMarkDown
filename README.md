@@ -4,16 +4,14 @@
 
 This repo contains syntax and formatting for the markdown files.
 That includes:
-> Headers
-> Bold, Italic and Underline
-> Ordered List
-> Unordered List
-> Paragraph Formatting
-> Email address link
-> Inline URL links
-> Inline Images
-
-# Headings
+> Headers   
+> Bold, Italic and Underline   
+> Ordered List   
+> Unordered List   
+> Paragraph Formatting   
+> Email address link   
+> Inline URL links   
+> Inline Images   
 
 # Use hashtags for headers
 # Heading <h1>
@@ -25,9 +23,9 @@ That includes:
 
 # Bold, Italic and Underline
 
-Use asterisks to **bold** text
-Use asterisk to *italicize* text
-Use underscore to _italicize_ text
+Use asterisks to **bold** text   
+Use asterisk to *italicize* text   
+Use underscore to _italicize_ text   
 
 ## Ordered List
 
@@ -53,9 +51,9 @@ Use underscore to _italicize_ text
 
 ## Email address link
 
-My Email, <anjali.mca17.du@gmail.com>
+My Email: <anjali.mca17.du@gmail.com>
 
 ## Inline URL link
 
-This is the Inline URL link to my github profile, <https://github.com/bansalanjali2512>
-This is the Inline URL link to my github profile, [Anjali Bansal]<https://github.com/bansalanjali2512>
+This is the Inline URL link to my github profile, <https://github.com/bansalanjali2512>   
+This is the Inline URL link to my github profile, [Anjali Bansal](https://github.com/bansalanjali2512)
