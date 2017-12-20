@@ -1,9 +1,9 @@
 # Learn Readme.md Syntax and formatting
 
-#Headings
+# Headings
 ---------
 
-#Use hashtags for headers
+# Use hashtags for headers
 # Heading <h1>
 ## Heading <h2>
 ### Heading <h3>
@@ -11,15 +11,15 @@
 ##### Heading <h5>
 ###### Heading <h6>
 
-#Bold, Italic and Underline
----------------------------
+# Bold, Italic and Underline
+----------------------------
 
 Use asterisks to **bold** text
 Use asterisk to *italicize* text
 Use underscore to _italicize_ text
 
-##Ordered List
--------------
+## Ordered List
+---------------
 
 1. One
 2. Two
@@ -27,8 +27,8 @@ Use underscore to _italicize_ text
 4. Four
 5. Five
 
-##Unordered List
----------------
+## Unordered List
+-----------------
 
 * Apple
 * Orange
