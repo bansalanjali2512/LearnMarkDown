@@ -68,3 +68,12 @@ Use underscore to _italicize_ text
 - Banana
 - Cherry
 
+
+## Email address link
+
+My Email: <anjali.mca17.du@gmail.com>
+
+## Inline URL link
+
+This is the Inline URL link to my github profile, <https://github.com/bansalanjali2512>   
+This is the Inline URL link to my github profile, [Anjali Bansal](https://github.com/bansalanjali2512)
