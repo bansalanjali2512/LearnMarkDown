@@ -49,7 +49,7 @@ Use underscore to _italicize_ text
 
 ## Email address link
 
-My Email: <anjali.mca17.du@gmail.com>
+Email: <anjali.mca17.du@gmail.com>
 
 ## Inline URL link
 
